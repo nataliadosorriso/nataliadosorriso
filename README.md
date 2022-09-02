@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - ⛪ Catholic 
 - 💛 Schoenstattiana
-- 🫀 Melancholic Sanguine
+- 💖 Melancholic Sanguine
 - 📚 In love with reading
 - 🖥️ Studying at IFAL - Campus Arapiraca
 
