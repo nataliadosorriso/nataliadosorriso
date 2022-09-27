@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <h5>Experience:</h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,c,java,js,nodejs,html,css,py,php,flutter,react,mysql,latex,linux,instagram,canva" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,c,java,js,nodejs,html,css,py,php,flutter,react,mysql,latex,linux,instagram" />
   </a>
 </p>
